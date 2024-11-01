@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cryptoo.me Bitcoin payment gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-04 12:41+0000\n"
+"PO-Revision-Date: 2018-12-04 13:04+0000\n"
+"Last-Translator: admin <alexey-trofimov@mail.ru>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wc_instant_bitcoin_payment_gateway.php:71
+msgid "Instant Bitcoin satoshi (Cryptoo.me)"
+msgstr "Мгновенная оплата Биткойт сатоши (Cryptoo.me)"
+
+#: wc_instant_bitcoin_payment_gateway.php:72
+msgid "Pay in Bitcoin satoshi via Cryptoo.me"
+msgstr "Оплата в Биткоин сатоши через Cryptoo.me"
+
+#: wc_instant_bitcoin_payment_gateway.php:156
+msgid "Cryptoo.me Bitcoin "
+msgstr "Cryptoo.me Bitcoin "
+
+#: wc_instant_bitcoin_payment_gateway.php:157
+msgid ""
+"Cryptoo.me Bitcoin  operates via  <a target=_blank href=\"https://cryptoo."
+"me\">Cryptoo.me</a>"
+msgstr ""
+"Cryptoo.me Bitcoin  работает через  <a target=_blank href=\"https://cryptoo."
+"me/криптовалютные-микроплатежи/\">Cryptoo.me</a>"
+
+#: wc_instant_bitcoin_payment_gateway.php:165
+msgid ""
+"Please obtain free API key at <a target=_blank href=\"https://cryptoo.me\">"
+"Cryptoo.me</a>."
+msgstr ""
+"Пожалуйста получите бесплатный  Ключ Приложения (API key) на <a "
+"target=_blank href=\"https://cryptoo.me/криптовалютные-микроплатежи/\">"
+"Cryptoo.me</a>"
+
+#: wc_instant_bitcoin_payment_gateway.php:167
+msgid ""
+"Register new Application at <a target=_blank href=\"https://cryptoo."
+"me/applications/\">Application Manager</a>, and use the Application API key "
+"in the form bellow."
+msgstr ""
+"Зарегистрируйтесь, создайте новое Приложение в <a target=_blank href=\"https:"
+"//cryptoo.me/приложения/\">Менеджере Приложений</a>, и используйте Ключ (API "
+"key) в форме ниже."
+
+#: wc_instant_bitcoin_payment_gateway.php:171
+msgid "Set Application Name to "
+msgstr "Используйте Имя Приложения"
+
+#: wc_instant_bitcoin_payment_gateway.php:173
+msgid "and Application URL to "
+msgstr "и URL Приложения"
+
+#: wc_instant_bitcoin_payment_gateway.php:175
+msgid ""
+"to receive extra traffic from the <target=_blank href=\"https://cryptoo."
+"me/rotator/\">Applications List</a>."
+msgstr ""
+"чтобы получить дополнительный трафик из <a target=_blank href=\"https:"
+"//cryptoo.me/список-приложений/\">Списка Приложений</a>."
+
+#: wc_instant_bitcoin_payment_gateway.php:187
+msgid "Gateway Disabled"
+msgstr "Шлюз выключен"
+
+#: wc_instant_bitcoin_payment_gateway.php:188
+msgid "Cryptoo.me Bitcoin  does not support your store currency."
+msgstr "Cryptoo.me Bitcoin  не поддерживает валюту Вашего магазина"
+
+#: wc_instant_bitcoin_payment_gateway.php:209
+msgid "Enable/Disable"
+msgstr "Включить/Выключить"
+
+#: wc_instant_bitcoin_payment_gateway.php:211
+msgid "Enable/Disable payment method."
+msgstr "Включить/Выключить способ оплаты"
+
+#: wc_instant_bitcoin_payment_gateway.php:213
+msgid "Enable Cryptoo.me Bitcoin "
+msgstr "Включить Cryptoo.me Bitcoin "
+
+#: wc_instant_bitcoin_payment_gateway.php:218
+msgid "Title"
+msgstr "Название"
+
+#: wc_instant_bitcoin_payment_gateway.php:220
+msgid "This controls the title which the user sees during checkout."
+msgstr "Название, которое покупатель видит при оплате."
+
+#: wc_instant_bitcoin_payment_gateway.php:222
+msgid "Instant Bitcoin Payment"
+msgstr "Моментальная оплата Биткоин"
+
+#: wc_instant_bitcoin_payment_gateway.php:225
+msgid "Description"
+msgstr "Описание"
+
+#: wc_instant_bitcoin_payment_gateway.php:227
+msgid "This controls the description which the user sees during checkout."
+msgstr "Описание, которое покупатель видит при оплате."
+
+#: wc_instant_bitcoin_payment_gateway.php:229
+msgid "Bitcoin Payment gateway with Cryptoo.me"
+msgstr "Биткойн Платёжный Шлюз Cryptoo.me"
+
+#: wc_instant_bitcoin_payment_gateway.php:233
+msgid "Application API Key"
+msgstr "Ключ Приложения (API key)"
+
+#: wc_instant_bitcoin_payment_gateway.php:235
+msgid ""
+"Please enter your API key. Get it for free at <a target=_blank href=https:"
+"//cryptoo.me/applications/>Cryptoo.me Application Manager</a>."
+msgstr ""
+"Пожалуйста введите Вашr API key. Его можно получить в <a target=_blank "
+"href=\"https://cryptoo.me/приложения/\">Менеджере Приложений Cryptoo.me</a>."
+
+#: wc_instant_bitcoin_payment_gateway.php:240
+msgid "Set order as completed after payment?"
+msgstr "Установить статус заказа в \"Выполнен\" после платежа?"
+
+#: wc_instant_bitcoin_payment_gateway.php:242
+msgid ""
+"After payment, should the order be set as \"completed\" ? Default is "
+"\"processing\"."
+msgstr ""
+"Изминить статус заказа на \"Выполнен\" после платежа ? Стандартное значение: "
+"\"Обработка\""
+
+#: wc_instant_bitcoin_payment_gateway.php:245
+msgid "No"
+msgstr "Нет"
+
+#: wc_instant_bitcoin_payment_gateway.php:246
+msgid "Yes"
+msgstr "Да"
+
+#: wc_instant_bitcoin_payment_gateway.php:252
+msgid "Debug Log"
+msgstr "Журнал Отладки"
+
+#: wc_instant_bitcoin_payment_gateway.php:254
+msgid "Enable logging"
+msgstr "Включить Журнал Отладки"
+
+#: wc_instant_bitcoin_payment_gateway.php:255
+#, php-format
+msgid "Log Cryptoo.me Bitcoin  events, inside %s"
+msgstr "Журнал событий Cryptoo.me Bitcoin в %s"
+
+#: wc_instant_bitcoin_payment_gateway.php:278
+msgid ""
+"CRYPTOO.ME Bitcoin Payment Gateway does not operate with the currency of "
+"this order"
+msgstr "Платёжный шлюз CRYPTOO.ME Bitcoin не работает с валютой этого заказа"
+
+#: wc_instant_bitcoin_payment_gateway.php:285
+msgid "Payment for order"
+msgstr "Платёж для заказа"
+
+#: wc_instant_bitcoin_payment_gateway.php:313
+msgid "CRYPTOO.ME returned error"
+msgstr "CRYPTOO.ME вернул ошибку"
+
+#: wc_instant_bitcoin_payment_gateway.php:394
+msgid "Cryptoo.me Bitcoin  payment completed"
+msgstr "Cryptoo.me Bitcoin  платёж завершён"
+
+#. Name of the plugin
+msgid "Cryptoo.me Bitcoin payment gateway"
+msgstr "Платёжный Шлюз Cryptoo.me Bitcoin"
+
+#. Description of the plugin
+msgid "Cryptoo.me Bitcoin  payment gateway for WooCommerce"
+msgstr "Платёжный Шлюз Cryptoo.me Bitcoin для WooCommerce"
+
+#. Author of the plugin
+msgid "Alexey Trofimov"
+msgstr "Алексей Трофимов"
+
+#. Author URI of the plugin
+msgid "http://cryptoo.me"
+msgstr "https://cryptoo.me/криптовалютные-микроплатежи/"

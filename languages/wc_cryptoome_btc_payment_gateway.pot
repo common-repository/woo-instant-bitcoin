@@ -1,0 +1,179 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cryptoo.me Bitcoin payment gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-04 12:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wc_instant_bitcoin_payment_gateway.php:71
+msgid "Instant Bitcoin satoshi (Cryptoo.me)"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:72
+msgid "Pay in Bitcoin satoshi via Cryptoo.me"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:156
+msgid "Cryptoo.me Bitcoin "
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:157
+msgid ""
+"Cryptoo.me Bitcoin  operates via  <a target=_blank href=\"https://cryptoo."
+"me\">Cryptoo.me</a>"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:165
+msgid ""
+"Please obtain free API key at <a target=_blank href=\"https://cryptoo.me\">"
+"Cryptoo.me</a>."
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:167
+msgid ""
+"Register, create new Application at <a target=_blank href=\"https://cryptoo."
+"me/applications/\">Application Manager</a>, and use the Application API key "
+"in the form bellow."
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:171
+msgid "Set Application Name to "
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:173
+msgid "and Application URL to "
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:175
+msgid ""
+"to receive extra traffic from the <target=_blank href=\"https://cryptoo."
+"me/rotator/\">Applications List</a>."
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:187
+msgid "Gateway Disabled"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:188
+msgid "Cryptoo.me Bitcoin  does not support your store currency."
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:209
+msgid "Enable/Disable"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:211
+msgid "Enable/Disable payment method."
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:213
+msgid "Enable Cryptoo.me Bitcoin "
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:218
+msgid "Title"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:220
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:222
+msgid "Instant Bitcoin Payment"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:225
+msgid "Description"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:227
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:229
+msgid "Bitcoin Payment gateway with Cryptoo.me"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:233
+msgid "Application API Key"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:235
+msgid ""
+"Please enter your API key. Get it for free at <a target=_blank href=https:"
+"//cryptoo.me/applications/>Cryptoo.me Application Manager</a>."
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:240
+msgid "Set order as completed after payment?"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:242
+msgid ""
+"After payment, should the order be set as \"completed\" ? Default is "
+"\"processing\"."
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:245
+msgid "No"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:246
+msgid "Yes"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:252
+msgid "Debug Log"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:254
+msgid "Enable logging"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:255
+#, php-format
+msgid "Log Cryptoo.me Bitcoin  events, inside %s"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:278
+msgid ""
+"CRYPTOO.ME Bitcoin Payment Gateway does not operate with the currency of "
+"this order"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:285
+msgid "Payment for order"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:313
+msgid "CRYPTOO.ME returned error"
+msgstr ""
+
+#: wc_instant_bitcoin_payment_gateway.php:394
+msgid "Cryptoo.me Bitcoin  payment completed"
+msgstr ""
+
+#. Name of the plugin
+msgid "Cryptoo.me Bitcoin payment gateway"
+msgstr ""
+
+#. Description of the plugin
+msgid "Cryptoo.me Bitcoin  payment gateway for WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexey Trofimov"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://cryptoo.me"
+msgstr ""
